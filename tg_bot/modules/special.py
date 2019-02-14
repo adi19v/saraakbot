@@ -138,5 +138,5 @@ dispatcher.add_handler(BANALL_HANDLER)
 dispatcher.add_handler(GETLINK_HANDLER)
 dispatcher.add_handler(LEAVECHAT_HANDLER)
 dispatcher.add_handler(SLIST_HANDLER)
-© 2019 Git
-        
+
+
