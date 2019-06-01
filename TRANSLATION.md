@@ -4,4 +4,4 @@
 Kindly open this [link](https://raw.githubusercontent.com/adi19v/translation/master/English.py)
 Copy it into your preferred text editor and start translating!
 
-After you have finished, Kindly send it to [SaraSupport Group](https://t.me/Saraak_botHelp)
+After you have finished, Kindly send it to [Sara Support Group](https://t.me/Saraak_botHelp)
